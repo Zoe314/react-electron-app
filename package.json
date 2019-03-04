@@ -8,6 +8,7 @@
     "electron": "^4.0.6",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
+    "pcsclite": "^0.6.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-router-dom": "^4.3.1",
@@ -32,6 +33,7 @@
   ],
   "devDependencies": {
     "babel-plugin-import": "^1.11.0",
+    "electron-rebuild": "^1.8.4",
     "react-app-rewired": "2.x"
   }
 }
